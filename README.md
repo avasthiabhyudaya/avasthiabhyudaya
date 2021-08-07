@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Abhyudaya-Avasthi](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
-- 💬 Ask me about **Python, C++, D3.js**
+- 💬 Ask me about **Python, Javascript, C++, D3.js**
 
 - 📫 How to reach me **avasthiabhyudaya@gmail.com**
 
