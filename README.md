@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avasthiabhyudaya&label=Profile%20views&color=0e75b6&style=flat" alt="avasthiabhyudaya" /> </p>
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- Do visit my [website](https://avasthiabhyudaya.github.io/website/#/) (Currently Desktop-only but i'm working on it)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Abhyudaya-Avasthi](https://www.quora.com/profile/Abhyudaya-Avasthi)
+- 🌱 I’m currently learning **React.js and Node.js** 
+
+- 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
 - 💬 Ask me about **Python, Javascript, C++, D3.js**
 
