@@ -5,11 +5,11 @@
 
 - Do visit my [website](https://avasthiabhyudaya.github.io/website/#/) (Currently Desktop-only but i'm working on it)
 
-- 🌱 I’m currently learning **React.js and Node.js** 
+- 🌱 I’m currently learning **MERN stack development** 
 
 - 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
-- 💬 Ask me about **Python, Javascript, C++, D3.js**
+- 💬 Ask me about **Python, Javascript, C++, D3.js and React js**
 
 - 📫 How to reach me **avasthiabhyudaya@gmail.com**
 
