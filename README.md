@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack development** 
 
-- 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
+- 📝 I regularly write articles on [Medium](https://medium.com/@avasthiabhyudaya) [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
 - 💬 Ask me about **Python, Javascript, C++, D3.js and React js**
 
