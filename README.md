@@ -5,8 +5,6 @@
 
 - Do visit my [website](https://avasthiabhyudaya.github.io/website/#/) (Currently Desktop-only but i'm working on it)
 
-- 🌱 I’m currently learning **MERN stack development** 
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@avasthiabhyudaya) [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
 - 💬 Ask me about **Python, Javascript, C++, D3.js and React js**
