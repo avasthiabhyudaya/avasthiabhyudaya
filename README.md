@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avasthiabhyudaya@gmail.com**
 
-- ⚡ Fun fact **I was the Time's Person of the year 2006.**
+- ⚡ Fun fact **I was Time Magazine's Person of the year 2006.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
