@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **avasthiabhyudaya@gmail.com**
 
-- ⚡ Fun fact **I was Time Magazine's Person of the year 2006.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhyudaya-avasthi-633900157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhyudaya-avasthi-633900157" height="30" width="40" /></a>
