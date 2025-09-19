@@ -5,7 +5,7 @@
 
 - Do visit my [website](https://avasthiabhyudaya.github.io/website/#/) (Currently Desktop-only but i'm working on it)
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/abhyudaya-avasthi/) [Medium](https://medium.com/@avasthiabhyudaya) & [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/abhyudaya-avasthi/), [Medium](https://medium.com/@avasthiabhyudaya) & [Quora](https://www.quora.com/profile/Abhyudaya-Avasthi)
 
 - 💬 Ask me about **Python, Javascript, C++, D3.js and React js**
 
